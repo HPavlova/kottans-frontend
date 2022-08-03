@@ -5,15 +5,25 @@
 ### General
 
 0. Git Basics
-   <details><summary>click me</summary>
-| ------- | -------- |
+<details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
-
 </details>
+
 1. Linux CLI and Networking
+<details>
+| New     |          |
+| Suprise |          |
+| Use     |          |
+</details>
+
 2. VCS (hello gitty), GitHub and Collaboration
+<details>
+| New     |          |
+| Suprise |          |
+| Use     |          |
+</details>
 
 ### Front-End Basics
 
