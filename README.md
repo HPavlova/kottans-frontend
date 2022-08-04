@@ -4,7 +4,7 @@
 
 ### General
 
-0. [x] Git Basics 
+0. Git Basics - [x]
 <details>
 | New     |          |
 | Suprise |          |
