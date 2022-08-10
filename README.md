@@ -6,16 +6,22 @@
 
 0. - [x] Git Basics 
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     | commands terminal diff -u, wdiff, patch |
 | Suprise | Git created in 2005 |
 | Use     | commands terminal git commit --amend, git revert, git log --graph --oneline, git merge --abort |
 
-!(/images/Screenshot 2022-08-10 at 17.36.51.png)
-!(/images/Screenshot 2022-08-10 at 17.37.32.png)
+![Course Introduction to Git and GitHub week1](./images/Screenshot%202022-08-10%20at%2017.36.51.png)
+![Course Introduction to Git and GitHub week2](./images/Screenshot%202022-08-10%20at%2017.37.32.png)
 </details>
 
 1. - [ ] Linux CLI and Networking
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -23,6 +29,9 @@
 
 2. - [ ] VCS (hello gitty), GitHub and Collaboration
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -32,6 +41,9 @@
 
 3. - [ ] Intro to HTML & CSS
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -39,6 +51,9 @@
 
 4. - [ ] Responsive Web Design
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -46,6 +61,9 @@
 
 5. - [ ] HTML & CSS Practice
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -53,6 +71,9 @@
 
 6. - [ ] JS Basics
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -60,6 +81,9 @@
 
 7. - [ ] DOM
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -70,6 +94,9 @@
 
 8. - [ ] Building a Tiny JS World (pre-OOP)
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -77,6 +104,9 @@
 
 9. - [ ] Object oriented JS
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -84,6 +114,9 @@
 
 10. - [ ] OOP exercise
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -91,6 +124,9 @@
 
 11. - [ ] Offline web Applications
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -98,6 +134,9 @@
 
 12. - [ ] Memory pair game
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -105,6 +144,9 @@
 
 13. - [ ] Website Perfomance Optimization
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
@@ -112,6 +154,9 @@
 
 14. - [ ] Friends App
 <details>
+
+| Effect | Description |
+| --- | --- |
 | New     |          |
 | Suprise |          |
 | Use     |          |
