@@ -6,19 +6,22 @@
 
 0. - [x] Git Basics 
 <details>
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | commands terminal diff -u, wdiff, patch |
+| Suprise | Git created in 2005 |
+| Use     | commands terminal git commit --amend, git revert, git log --graph --oneline, git merge --abort |
+
+!(/images/Screenshot 2022-08-10 at 17.36.51.png)
+!(/images/Screenshot 2022-08-10 at 17.37.32.png)
 </details>
 
-1. Linux CLI and Networking
+1. - [ ] Linux CLI and Networking
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-2. VCS (hello gitty), GitHub and Collaboration
+2. - [ ] VCS (hello gitty), GitHub and Collaboration
 <details>
 | New     |          |
 | Suprise |          |
@@ -27,35 +30,35 @@
 
 ### Front-End Basics
 
-3. Intro to HTML & CSS
+3. - [ ] Intro to HTML & CSS
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-4. Responsive Web Design
+4. - [ ] Responsive Web Design
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-5. HTML & CSS Practice
+5. - [ ] HTML & CSS Practice
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-6. JS Basics
+6. - [ ] JS Basics
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-7. DOM
+7. - [ ] DOM
 <details>
 | New     |          |
 | Suprise |          |
@@ -65,49 +68,49 @@
 
 ### Advanced Topics
 
-8. Building a Tiny JS World (pre-OOP)
+8. - [ ] Building a Tiny JS World (pre-OOP)
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-9. Object oriented JS
+9. - [ ] Object oriented JS
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-10. OOP exercise
+10. - [ ] OOP exercise
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-11. Offline web Applications
+11. - [ ] Offline web Applications
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-12. Memory pair game
+12. - [ ] Memory pair game
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-13. Website Perfomance Optimization
+13. - [ ] Website Perfomance Optimization
 <details>
 | New     |          |
 | Suprise |          |
 | Use     |          |
 </details>
 
-14. Friends App
+14. - [ ] Friends App
 <details>
 | New     |          |
 | Suprise |          |
