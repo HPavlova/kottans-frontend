@@ -15,6 +15,8 @@
 
 ![Course Introduction to Git and GitHub week1](./images/Screenshot%202022-08-10%20at%2017.36.51.png)
 ![Course Introduction to Git and GitHub week2](./images/Screenshot%202022-08-10%20at%2017.37.32.png)
+![practice: Introduction Sequence](./images/Screenshot%202022-08-11%20at%2020.34.48.png)
+![practice: Push&Pull](./images/Screenshot%202022-08-11%20at%2023.25.11.png)
 </details>
 
 1. - [ ] Linux CLI and Networking
