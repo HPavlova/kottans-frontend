@@ -13,10 +13,10 @@
 | Suprise | Git created in 2005 |
 | Use     | commands terminal git commit --amend, git revert, git log --graph --oneline, git merge --abort |
 
-![Course Introduction to Git and GitHub week1](./images/Screenshot%202022-08-10%20at%2017.36.51.png)
-![Course Introduction to Git and GitHub week2](./images/Screenshot%202022-08-10%20at%2017.37.32.png)
-![practice: Introduction Sequence](./images/Screenshot%202022-08-11%20at%2020.34.48.png)
-![practice: Push&Pull](./images/Screenshot%202022-08-11%20at%2023.25.11.png)
+![Course Introduction to Git and GitHub week1](./images/git/Screenshot%202022-08-10%20at%2017.36.51.png)
+![Course Introduction to Git and GitHub week2](./images/git/Screenshot%202022-08-10%20at%2017.37.32.png)
+![practice: Introduction Sequence](./images/git/Screenshot%202022-08-11%20at%2020.34.48.png)
+![practice: Push&Pull](./images/git/Screenshot%202022-08-11%20at%2023.25.11.png)
 </details>
 
 1. - [ ] Linux CLI and Networking
@@ -27,9 +27,14 @@
 | New     |          |
 | Suprise |          |
 | Use     |          |
+
+![Linux Survival quiz1](./images/linux/Screenshot%202022-08-16%20at%2017.28.28.png)
+![Linux Survival quiz2](./images/linux/Screenshot%202022-08-16%20at%2018.18.45.png)
+![Linux Survival quiz3](./images/linux/Screenshot%202022-08-16%20at%2020.24.18.png)
+![Linux Survival quiz4](./images/linux/Screenshot%202022-08-22%20at%2018.57.49.png)
 </details>
 
-2. - [ ] VCS (hello gitty), GitHub and Collaboration
+1. - [ ] VCS (hello gitty), GitHub and Collaboration
 <details>
 
 | Effect | Description |
