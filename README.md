@@ -19,14 +19,14 @@
 ![practice: Push&Pull](./images/git/Screenshot%202022-08-11%20at%2023.25.11.png)
 </details>
 
-1. - [ ] Linux CLI and Networking
+1. - [x] Linux CLI and HTTP
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Linux commands |
+| Suprise | Difference between HTTP and HTTPS: additional protocol SSL or TLS |
+| Use     | Linux commands |
 
 ![Linux Survival quiz1](./images/linux/Screenshot%202022-08-16%20at%2017.28.28.png)
 ![Linux Survival quiz2](./images/linux/Screenshot%202022-08-16%20at%2018.18.45.png)
