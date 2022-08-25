@@ -34,14 +34,17 @@
 ![Linux Survival quiz4](./images/linux/Screenshot%202022-08-22%20at%2018.57.49.png)
 </details>
 
-1. - [ ] VCS (hello gitty), GitHub and Collaboration
+2. - [ ] GitHub Collaboration
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Tracking Issues |
+| Suprise |  |
+| Use     | Tracking Issues |
+
+![Course Introduction to Git and GitHub week3](./images/git/Screenshot%202022-08-25%20at%2018.10.43.png)
+![Course Introduction to Git and GitHub week4](./images/git/Screenshot%202022-08-25%20at%2019.37.39.png)
 </details>
 
 ### Front-End Basics
