@@ -34,17 +34,19 @@
 ![Linux Survival quiz4](./images/linux/Screenshot%202022-08-22%20at%2018.57.49.png)
 </details>
 
-2. - [ ] GitHub Collaboration
+2. - [x] GitHub Collaboration
 <details>
 
 | Effect | Description |
 | --- | --- |
 | New     | Tracking Issues |
-| Suprise |  |
+| Suprise | Arguments git pull, push, fetch |
 | Use     | Tracking Issues |
 
 ![Course Introduction to Git and GitHub week3](./images/git/Screenshot%202022-08-25%20at%2018.10.43.png)
 ![Course Introduction to Git and GitHub week4](./images/git/Screenshot%202022-08-25%20at%2019.37.39.png)
+![practice: cherry-pick](./images/git/Screenshot%202022-08-28%20at%2017.48.55.png)
+![practice: Git Remotes](./images/git/Screenshot%202022-08-28%20at%2017.49.19.png)
 </details>
 
 ### Front-End Basics
