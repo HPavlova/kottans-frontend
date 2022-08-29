@@ -51,14 +51,17 @@
 
 ### Front-End Basics
 
-3. - [ ] Intro to HTML & CSS
+3. - [ ] Intro to HTML and CSS
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot] |
+| Suprise | WHATWG does NOT version HTML. It's just HTML.|
+| Use     | Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot] |
+
+![Course HTML, CSS, and Javascript for Web Developers week1 part1](./images/coursera_html/Screenshot%202022-08-29%20at%2021.08.19.png)
+![Course HTML, CSS, and Javascript for Web Developers week1 part2](./images/coursera_html/Screenshot%202022-08-29%20at%2021.09.07.png)
 </details>
 
 4. - [ ] Responsive Web Design
