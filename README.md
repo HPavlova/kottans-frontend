@@ -51,17 +51,17 @@
 
 ### Front-End Basics
 
-3. - [ ] Intro to HTML and CSS
+3. - [x] Intro to HTML and CSS
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     | Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot] |
+| New     | HTML: Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot]; CSS: Combining Selectors, box-sizing: border-box;, Star Selector, Collapsing Margins, Floating Elements and the clear property, Twitter Bootstrap |
 | Suprise | WHATWG does NOT version HTML. It's just HTML.|
-| Use     | Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot] |
+| Use     | HTML: Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot]; CSS: Combining Selectors, box-sizing: border-box;, Star Selector, Collapsing Margins, Floating Elements and the clear property, Twitter Bootstrap |
 
-![Course HTML, CSS, and Javascript for Web Developers week1 part1](./images/coursera_html/Screenshot%202022-08-29%20at%2021.08.19.png)
-![Course HTML, CSS, and Javascript for Web Developers week1 part2](./images/coursera_html/Screenshot%202022-08-29%20at%2021.09.07.png)
+![Course HTML, CSS, and Javascript for Web Developers week1](./images/coursera_html/Screenshot%202022-09-01%20at%2017.05.25.png)
+![Course HTML, CSS, and Javascript for Web Developers week1](./images/coursera_css/Screenshot%202022-09-01%20at%2017.06.11.png)
 </details>
 
 4. - [ ] Responsive Web Design
