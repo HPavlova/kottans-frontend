@@ -61,17 +61,20 @@
 | Use     | HTML: Browser-sync, https://jsfiddle.net/, https://codepen.io/, html entities [&lt, &gt, &amp, &nbsp, &quot]; CSS: Combining Selectors, box-sizing: border-box;, Star Selector, Collapsing Margins, Floating Elements and the clear property, Twitter Bootstrap |
 
 ![Course HTML, CSS, and Javascript for Web Developers week1](./images/coursera_html/Screenshot%202022-09-01%20at%2017.05.25.png)
-![Course HTML, CSS, and Javascript for Web Developers week1](./images/coursera_css/Screenshot%202022-09-01%20at%2017.06.11.png)
+![Course HTML, CSS, and Javascript for Web Developers week2](./images/coursera_css/Screenshot%202022-09-01%20at%2017.06.11.png)
 </details>
 
-4. - [ ] Responsive Web Design
+4. - [x] Responsive Web Design
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | @media print, flex: 1 1 auto; CSS Grid Layout |
+| Suprise | - |
+| Use     | @media print, flex: 1 1 auto; CSS Grid Layout |
+
+![Flexbox Froggy](./images/css_flexbox/Screenshot%202022-09-02%20at%2021.14.44.png)
+![Grid Garden](./images/css_grid_layout/Screenshot%202022-09-02%20at%2021.13.43.png)
 </details>
 
 5. - [ ] HTML & CSS Practice
