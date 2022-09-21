@@ -77,14 +77,17 @@
 ![Grid Garden](./images/css_grid_layout/Screenshot%202022-09-02%20at%2021.13.43.png)
 </details>
 
-5. - [ ] HTML & CSS Practice
+5. - [x] HTML & CSS Practice
 <details>
+
+[demo](https://hpavlova.github.io/html-css-popup/)
+[code](https://github.com/HPavlova/html-css-popup)
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Practical use of grids |
+| Suprise | - |
+| Use     | CSS Grid Layout, various options for changing the visibility of elements HTML |
 </details>
 
 6. - [ ] JS Basics
