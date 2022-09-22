@@ -95,9 +95,11 @@
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Fake Namespaces, Immediately Invoked Function Expressions (IIFEs) |
+| Suprise | i-- |
+| Use     | Immediately Invoked Function Expressions (IIFEs) |
+
+![Course HTML, CSS, and Javascript for Web Developers week4](./images/coursera_js/Screenshot%202022-09-22%20at%2017.56.27.png)
 </details>
 
 7. - [ ] DOM
