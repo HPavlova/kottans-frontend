@@ -96,11 +96,12 @@
 | Effect | Description |
 | --- | --- |
 | New     | Fake Namespaces, Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards |
-| Suprise | i-- |
+| Suprise | i--, ability to remove the function keyword and colon when defining functions in objects |
 | Use     | Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards |
 
 ![Course HTML, CSS, and Javascript for Web Developers week4](./images/coursera_js/Screenshot%202022-09-22%20at%2017.56.27.png)
 ![FreeCodeCamp Course Basic JavaScript](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2014.03.32.png)
+![FreeCodeCamp Course ES6](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2016.43.58.png)
 </details>
 
 7. - [ ] DOM
