@@ -102,6 +102,7 @@
 ![Course HTML, CSS, and Javascript for Web Developers week4](./images/coursera_js/Screenshot%202022-09-22%20at%2017.56.27.png)
 ![FreeCodeCamp Course Basic JavaScript](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2014.03.32.png)
 ![FreeCodeCamp Course ES6](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2016.43.58.png)
+![FreeCodeCamp Course Basic Data Structures](./images/freeCodeCamp/Screenshot%202022-09-27%20at%2018.39.49.png)
 </details>
 
 7. - [ ] DOM
