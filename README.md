@@ -103,6 +103,7 @@
 ![FreeCodeCamp Course Basic JavaScript](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2014.03.32.png)
 ![FreeCodeCamp Course ES6](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2016.43.58.png)
 ![FreeCodeCamp Course Basic Data Structures](./images/freeCodeCamp/Screenshot%202022-09-27%20at%2018.39.49.png)
+![FreeCodeCamp Course Basic Algorithm Scripting](./images/freeCodeCamp/Screenshot%202022-09-28%20at%2020.29.31.png)
 </details>
 
 7. - [ ] DOM
