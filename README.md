@@ -116,6 +116,8 @@
 | New     |          |
 | Suprise |          |
 | Use     |          |
+
+![Course HTML, CSS, and Javascript for Web Developers week5](./images/coursera_js/Screenshot%202022-10-02%20at%2018.37.37.png)
 </details>
 
 
