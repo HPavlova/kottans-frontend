@@ -90,14 +90,14 @@
 | Use     | CSS Grid Layout, various options for changing the visibility of elements HTML |
 </details>
 
-6. - [ ] JS Basics
+6. - [x] JS Basics
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     | Fake Namespaces, Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards |
+| New     | Fake Namespaces, Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards, charCodeAt(), String.fromCharCode(), Array.prototype.flat(),  new Set |
 | Suprise | i--, ability to remove the function keyword and colon when defining functions in objects |
-| Use     | Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards |
+| Use     | Immediately Invoked Function Expressions (IIFEs), Delete Properties from a JavaScript Object, for: count backwards, charCodeAt(), String.fromCharCode(), Array.prototype.flat(),  new Set |
 
 ![Course HTML, CSS, and Javascript for Web Developers week4](./images/coursera_js/Screenshot%202022-09-22%20at%2017.56.27.png)
 ![FreeCodeCamp Course Basic JavaScript](./images/freeCodeCamp/Screenshot%202022-09-26%20at%2014.03.32.png)
@@ -105,6 +105,7 @@
 ![FreeCodeCamp Course Basic Data Structures](./images/freeCodeCamp/Screenshot%202022-09-27%20at%2018.39.49.png)
 ![FreeCodeCamp Course Basic Algorithm Scripting](./images/freeCodeCamp/Screenshot%202022-09-28%20at%2020.29.31.png)
 ![FreeCodeCamp Course Functional Programming](./images/freeCodeCamp/Screenshot%202022-09-30%20at%2018.44.22.png)
+![FreeCodeCamp Course Intermediate Algorithm Scripting](./images/freeCodeCamp/Screenshot%202022-10-02%20at%2015.01.02.png)
 </details>
 
 7. - [ ] DOM
