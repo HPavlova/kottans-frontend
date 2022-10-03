@@ -118,6 +118,7 @@
 | Use     |          |
 
 ![Course HTML, CSS, and Javascript for Web Developers week5](./images/coursera_js/Screenshot%202022-10-02%20at%2018.37.37.png)
+![FreeCodeCamp Course Intermediate Algorithm Scripting 12-18](./images/freeCodeCamp/Screenshot%202022-10-03%20at%2021.31.27.png)
 </details>
 
 
