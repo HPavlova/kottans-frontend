@@ -108,14 +108,17 @@
 ![FreeCodeCamp Course Intermediate Algorithm Scripting](./images/freeCodeCamp/Screenshot%202022-10-02%20at%2015.01.02.png)
 </details>
 
-7. - [ ] DOM
+7. - [x] DOM
 <details>
+
+[demo](https://hpavlova.github.io/js-dom/)
+[code](https://github.com/HPavlova/js-dom)
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | - |
+| Suprise | - |
+| Use     | - |
 
 ![Course HTML, CSS, and Javascript for Web Developers week5](./images/coursera_js/Screenshot%202022-10-02%20at%2018.37.37.png)
 ![FreeCodeCamp Course Intermediate Algorithm Scripting 12-18](./images/freeCodeCamp/Screenshot%202022-10-03%20at%2021.31.27.png)
