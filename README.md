@@ -127,14 +127,17 @@
 
 ### Advanced Topics
 
-8. - [ ] Building a Tiny JS World (pre-OOP)
+8. - [x] Building a Tiny JS World (pre-OOP)
 <details>
+
+[demo](https://hpavlova.github.io/a-tiny-JS-world/)
+[code](https://github.com/HPavlova/a-tiny-JS-world)
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | print() |
+| Suprise | print() |
+| Use     | print() |
 </details>
 
 9. - [ ] Object oriented JS
