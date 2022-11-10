@@ -143,6 +143,9 @@
 9. - [ ] Object oriented JS
 <details>
 
+[demo](https://hpavlova.github.io/object-oriented-js/)
+[code](https://github.com/HPavlova/object-oriented-js)
+
 | Effect | Description |
 | --- | --- |
 | New     |          |
@@ -150,7 +153,7 @@
 | Use     |          |
 </details>
 
-10. - [ ] OOP exercise
+10.  - [ ] OOP exercise
 <details>
 
 | Effect | Description |
