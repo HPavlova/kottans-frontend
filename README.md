@@ -140,7 +140,7 @@
 | Use     | print() |
 </details>
 
-9. - [ ] Object oriented JS
+9. - [x] Object oriented JS
 <details>
 
 [demo](https://hpavlova.github.io/object-oriented-js/)
@@ -148,9 +148,11 @@
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | window prompt |
+| Suprise | - |
+| Use     | window prompt |
+
+![Codewars 7 kyu](./images/codewars/Screenshot%202022-11-12%20at%2021.03.57.png)
 </details>
 
 10.  - [ ] OOP exercise
