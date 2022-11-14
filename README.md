@@ -155,14 +155,17 @@
 ![Codewars 7 kyu](./images/codewars/Screenshot%202022-11-12%20at%2021.03.57.png)
 </details>
 
-10.  - [ ] OOP exercise
+10.  - [x] OOP exercise
 <details>
+
+[demo](https://hpavlova.github.io/a-tiny-JS-world/)
+[code](https://github.com/HPavlova/a-tiny-JS-world)
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | referencing properties of another class |
+| Suprise | referencing properties of another class |
+| Use     | referencing properties of another class |
 </details>
 
 11. - [ ] Offline web Applications
