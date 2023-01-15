@@ -168,17 +168,20 @@
 | Use     | referencing properties of another class |
 </details>
 
-11. - [ ] Offline web Applications
+11. - [x] Offline Web Applications
 <details>
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | all |
+| Suprise | IndexedDB |
+| Use     | all |
+
+![Offline Web Applications img1](./images/offlineWebApp/Screenshot%202023-01-15%20at%2022.08.18.png)
+![Offline Web Applications img2](./images/offlineWebApp/Screenshot%202023-01-15%20at%2022.07.45.png)
 </details>
 
-12. - [ ] Memory pair game
+12.  - [ ] Memory pair game
 <details>
 
 | Effect | Description |
