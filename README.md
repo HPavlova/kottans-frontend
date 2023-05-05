@@ -181,14 +181,17 @@
 ![Offline Web Applications img2](./images/offlineWebApp/Screenshot%202023-01-15%20at%2022.07.45.png)
 </details>
 
-12.  - [ ] Memory pair game
+12.  - [x] Memory pair game
 <details>
+
+[demo](https://hpavlova.github.io/memory_pair_game/)
+[code](https://github.com/HPavlova/memory_pair_game)
 
 | Effect | Description |
 | --- | --- |
-| New     |          |
-| Suprise |          |
-| Use     |          |
+| New     | Shuffle Array, Flip Animation |
+| Suprise | Flip Animation |
+| Use     | Shuffle Array, Flip Animation |
 </details>
 
 13. - [ ] Website Perfomance Optimization
